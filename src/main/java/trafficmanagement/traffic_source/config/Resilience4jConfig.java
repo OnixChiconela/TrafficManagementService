@@ -1,4 +1,4 @@
-package trafficmanagement.traffic.config;
+package trafficmanagement.traffic_source.config;
 
 import java.time.Duration;
 
