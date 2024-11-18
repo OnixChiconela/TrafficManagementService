@@ -17,7 +17,7 @@
  - **Spring Boot Actuator**
  - **Resilience4j**: for rate limiting and circuit breaker patterns.
  - **Bucket4j**: For advanced rate liminting
- - **H2 Databases**: In-memory database for easy setup during development
+ - **SQL Database**: structured data management, robust querying capabilities, for efficient application data handling.
 
 **Prerequisites**
  - **JDK 11 or later*
